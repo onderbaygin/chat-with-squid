@@ -1,0 +1,31 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css";
+
+.chat {
+    border: 2px red solid;
+}
+.container {
+    padding-top: 50px;
+}
+.chat-title {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+.sent-message {
+    margin: 10px;
+    border: 1px black solid;
+    text-align: left;
+}
+.coming-message {
+    margin: 10px;
+    border: 1px black solid;
+    text-align: right;
+}
+.center {
+    text-align: center;
+}
+input {
+    text-align: center;
+    font-weight: bold;
+}
+
